@@ -1,12 +1,25 @@
 {
 	"$schema": "https://johng.io/schema/project-metadata.json",
 	"name": "168421.xyz",
-	"background": "A simple placeholder site for one of my domain names, built using vanilla HTML and CSS.",
+	"background": "Designed and built a lightweight placeholder website for 168421.xyz using plain HTML and CSS. The site gives an otherwise unused domain a polished public landing page with deep dusk-colored gradients, monospace typography, and an interactive numeric layout that centers the design around the domain name itself. It ships on GitHub Pages with a custom 404 page and a responsive layout that keeps the experience clean across devices.",
 	"logoPath": "images/favicon.svg",
+	"technologies": [
+		"GitHub Pages"
+	],
+	"tools": [
+		"Git",
+		"GitHub"
+	],
+	"topics": [
+		"Responsive Design",
+		"SSG",
+		"Web Design",
+		"OSS"
+	],
 	"category": "Website",
 	"schema": {
 		"type": "Web",
-		"applicationCategory": "Developer",
+		"applicationCategory": "Design",
 		"operatingSystem": "Any"
 	}
 }
