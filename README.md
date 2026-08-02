@@ -30,7 +30,9 @@ This is a simple placeholder/cover page for [168421.xyz](https://168421.xyz). I 
 
 ## 🧾 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright © 2017-2026 [John Goodliff](https://johng.io/r/168421) ([@twocaretcat](https://github.com/twocaretcat)).
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## 💕 Funding
 
